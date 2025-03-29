@@ -28,6 +28,9 @@ B = np.linalg.matrix_rank(A)
 print(B)
 ```
 #Developed by: SUDHARSAN S
+
+
+
 #RegisterNumber:212224040335
 
 
