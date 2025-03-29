@@ -12,12 +12,16 @@ Import the numpy module to use the built-in functions for calculation
 Step 2:
 Prepare the lists from each equation and assign in np.array
 
-Step 3: Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
+Step 3:
+Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
+
 Step 4:
 end the program
 
 ## Program:
+
 #Program to find the rank of a matrix.
+
 import numpy as np
 A =  [[1,2,3],[3,6,9]]
 B = np.linalg.matrix_rank(A)
