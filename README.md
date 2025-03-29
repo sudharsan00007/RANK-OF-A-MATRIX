@@ -21,11 +21,12 @@ end the program
 ## Program:
 
 #Program to find the rank of a matrix.
-
+```
 import numpy as np
 A =  [[1,2,3],[3,6,9]]
 B = np.linalg.matrix_rank(A)
 print(B)
+```
 #Developed by: SUDHARSAN S
 #RegisterNumber:212224040335
 
